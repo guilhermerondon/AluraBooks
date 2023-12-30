@@ -1,2 +1,2 @@
-# AluraBooks
+# Books
 Trabalhando com responsividade
